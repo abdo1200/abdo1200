@@ -14,7 +14,10 @@
 
 ## My Apps on Google play
 <a href="https://play.google.com/store/apps/details?id=com.Coders_2022.muslim_app"><img align="left" src="https://github.com/abdo1200/muslim_app/blob/master/assets/ic_launcher.png" alt="Muslim App" width="21px"/></a>
-
+Muslim
+</br>
+<a href="https://play.google.com/store/apps/details?id=com.coders.remi"><img align="left" src="https://github.com/abdo1200/Remi/blob/master/assets/img/logo.png" alt="Muslim App" width="21px"/></a>
+Remi
 </br>
 
 ## 🌐 Technical Skills:
@@ -28,13 +31,6 @@
 
 ![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdo1200&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdo1200&layout=compact&theme=dark)](https://github.com/yushi1007)
-
-
-My apps on google play:
-
-1- https://play.google.com/store/apps/details?id=com.Coders_2022.muslim_app
-
-2- https://play.google.com/store/apps/details?id=com.coders.remi
 
 
 
