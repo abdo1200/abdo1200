@@ -20,6 +20,6 @@
 
 ![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdo1200&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdo1200&layout=compact&theme=dark)](https://github.com/yushi1007)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=abdo1200.abdo1200)](https://www.yushi.dev/)
+
 
 
