@@ -10,9 +10,13 @@
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/abdo2999/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/flutter_developer_as/?igshid=YmMyMTA2M2Y%3D"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+</br>
 
 ## My Apps on Google play
 <a href="https://play.google.com/store/apps/details?id=com.Coders_2022.muslim_app"><img align="left" src="https://github.com/abdo1200/muslim_app/blob/master/assets/ic_launcher.png" alt="Muslim App" width="21px"/></a>
+
+</br>
+
 ## 🌐 Technical Skills:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
