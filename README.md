@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as a FreeLancer
 - 🤔 I’m looking for Flutter Developer opportunity  
 - 💬 Ask me about help anytime 
-- ⚡ I’m currently focus in flutter advanced animations and challanges <a href="https://github.com/abdo1200/flutter_collection">Click Here to See It</a> 
+- ⚡ I’m currently focus in flutter advanced animations and challanges <a href="https://github.com/abdo1200/flutter_collection">Click here to see it</a> 
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/abdo2999/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
