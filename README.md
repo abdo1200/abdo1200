@@ -1,3 +1,5 @@
+![1654444431373](https://user-images.githubusercontent.com/50383579/215475508-fe6f8a07-ebcb-49cd-858f-d0fe9c820c45.jpg)
+
 ### 💫 About Me:
 
 - 🔭 I’m currently working as a FreeLancer
