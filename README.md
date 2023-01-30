@@ -1,4 +1,4 @@
-![1654444431373](https://user-images.githubusercontent.com/50383579/215475508-fe6f8a07-ebcb-49cd-858f-d0fe9c820c45.jpg)
+![Black and Red Gradient Professional LinkedIn Banner](https://user-images.githubusercontent.com/50383579/215484118-433576aa-5bfa-4186-8f79-7358969d9192.png)
 
 ### 💫 About Me:
 
