@@ -5,11 +5,11 @@
 - 🔭 I’m currently working as a FreeLancer
 - 🤔 I’m looking for Flutter Developer opportunity  
 - 💬 Ask me about help anytime 
-- <a href="https://www.instagram.com/flutter_developer_as/?igshid=YmMyMTA2M2Y%3D"><img align="left"     src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/>⚡ I’m currently focus in flutter advanced animations and challanges</a>
+- ⚡ I’m currently focus in flutter advanced animations and challanges <a href="https://www.instagram.com/flutter_developer_as/?igshid=YmMyMTA2M2Y%3D"><img align="left"alt="nstagram" width="21px"/>https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg</a>
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/abdo2999/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/flutter_developer_as/?igshid=YmMyMTA2M2Y%3D"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/flutter_developer_as/?igshid=YmMyMTA2M2Y%3D"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="21px"/></a>
 </br>
 
 ## My Apps on Google play
