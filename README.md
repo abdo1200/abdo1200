@@ -8,3 +8,7 @@
 - ⚡ I’m currently Focuse in flutter advanced animations and challanges you can find it there (https://github.com/abdo1200/flutter_collection)
 
 ## 🌐 Socials:
+
+## 🌐 Technical Skills:
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
