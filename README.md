@@ -14,7 +14,7 @@
 ## My Apps on Google play
 
 <a href="https://play.google.com/store/apps/details?id=com.cemsit.golden_host">
-<img align="left" src="https://github.com/abdo1200/abdo1200/assets/50383579/97741d35-e700-49f4-8d5e-4927893c108c" alt="Muslim App" width="21px"/> GoldenHost</a>
+<img align="left" src="https://play-lh.googleusercontent.com/5VPibxVGnGdslOaGq9VwBQGVBC4xlV5FN4jynmU3ofNjXltHScaszsJq-O9BA_qPEg=w240-h480" alt="Muslim App" width="21px"/> GoldenHost</a>
 </br>
 </br>
 <a href="https://play.google.com/store/apps/details?id=com.Coders_2022.muslim_app"><img align="left" src="https://play-lh.googleusercontent.com/uQyhtdwsvpfiRGVY9uncmfa9iUzhsMJBxozGhpjuRNWpLrXM93JG8bU7v6hrtN_kgutn=w240-h480" alt="Muslim App" width="21px"/>    Muslim</a>
