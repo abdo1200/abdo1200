@@ -17,7 +17,7 @@
 </br>
 <a href="https://play.google.com/store/apps/details?id=com.coders.remi"><img align="left" src="https://github.com/abdo1200/Remi/blob/master/assets/img/logo.png" alt="Muslim App" width="21px"/>    Remi</a>
 </br>
-<a href="https://play.google.com/store/apps/details?id=com.cemsit.golden_host"><img align="left" alt="Golden Host" width="21px"/> ![app_icon](https://github.com/abdo1200/abdo1200/assets/50383579/b2d82881-69d8-4ba5-817f-005b25c59d40) Golden Host</a>
+<a href="https://play.google.com/store/apps/details?id=com.cemsit.golden_host" ><img align="left" src="![app_icon](https://github.com/abdo1200/abdo1200/assets/50383579/b2d82881-69d8-4ba5-817f-005b25c59d40)" alt="Golden Host" width="21px"/>  Golden Host</a>
 
 
 </br>
