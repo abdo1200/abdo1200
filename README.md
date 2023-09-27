@@ -1,5 +1,3 @@
-![Black and Red Gradient Professional LinkedIn Banner](https://user-images.githubusercontent.com/50383579/215484118-433576aa-5bfa-4186-8f79-7358969d9192.png)
-
 ### 💫 About Me:
 
 - 🔭 I’m currently working at Creative Minds
