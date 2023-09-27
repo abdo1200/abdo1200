@@ -16,8 +16,7 @@
 ### google play & app store
 <a href="https://play.google.com/store/apps/details?id=com.cemsit.golden_host">
 <img align="left" src="https://play-lh.googleusercontent.com/5VPibxVGnGdslOaGq9VwBQGVBC4xlV5FN4jynmU3ofNjXltHScaszsJq-O9BA_qPEg=w240-h480" alt="Muslim App" width="21px"/> GoldenHost</a>
-</br>
-</br>
+
 
 ### google play 
 
