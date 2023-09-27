@@ -13,12 +13,12 @@
 
 ## My Apps
 
-### google play & app store
+#### google play & app store
 <a href="https://play.google.com/store/apps/details?id=com.cemsit.golden_host">
 <img align="left" src="https://play-lh.googleusercontent.com/5VPibxVGnGdslOaGq9VwBQGVBC4xlV5FN4jynmU3ofNjXltHScaszsJq-O9BA_qPEg=w240-h480" alt="Muslim App" width="21px"/> GoldenHost</a>
 
 
-### google play 
+#### google play 
 
 <a href="https://play.google.com/store/apps/details?id=com.Coders_2022.muslim_app"><img align="left" src="https://play-lh.googleusercontent.com/uQyhtdwsvpfiRGVY9uncmfa9iUzhsMJBxozGhpjuRNWpLrXM93JG8bU7v6hrtN_kgutn=w240-h480" alt="Muslim App" width="21px"/>    Muslim</a>
 </br>
