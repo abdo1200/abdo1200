@@ -1,6 +1,6 @@
 ### 💫 About Me:
 
-- 🔭 I’m currently working at Creative Minds
+- 🔭 I’m currently working at Creative Minds since May 2023
 - 🤔 I’m looking for Flutter Developer opportunity  
 - 💬 Ask me about help anytime
 - contact number ☎️ : 01121914872
